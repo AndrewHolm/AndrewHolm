@@ -7,9 +7,7 @@
 
 
 
-- Ask me about **Data Science, Data Analytics**
 
-- Personal Website **https://andrewholm.github.io/** 
 
 - How to reach me **adholm3723@eagle.fgcu.edu**
 
